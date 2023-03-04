@@ -16,7 +16,7 @@
 [![](https://gtce.itsvg.in/api?username=YogeshS2001)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=YogeshxSaini&label=Profile%20Views&color=9&icon=0&pretty=false)](https://visitcount.itsvg.in)
